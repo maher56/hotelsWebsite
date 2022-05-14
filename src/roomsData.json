@@ -1,0 +1,151 @@
+{
+    "rooms": [
+        {
+            "price": "$800",
+            "maxCapacity": 8,
+            "pets": true,
+            "breakfast":true,
+            "type": "single",
+            "id": 1,
+            "link": "/rooms/single-room",
+            "prot": "per night",
+            "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus, sed possimus. Voluptate, quas consequatur quibusdam molestiae voluptatibus assumenda veniam molestias rerum nemo ipsa, minima corrupti voluptas alias omnis sapiente asperiores!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat nam, voluptatum, soluta autem dicta vero veritatis recusandae velit explicabo adipisci delectus qui quos ipsam quidem provident deleniti illo natus. Non.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea fugit perferendis veniam ab hic quis possimus. Cupiditate quae labore officia, obcaecati, nihil ad nam dolor fugiat voluptas sed repellendus nobis?",
+            "img": "https://i.top4top.io/p_2210yukg21.jpg"    
+        },
+        {
+            "price": "$300",
+            "maxCapacity": 2,
+            "pets": false,
+            "breakfast":true,
+            "type": "double",
+            "id": 2,
+            "link": "/rooms/single-room",
+            "prot": "per night",
+            "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus, sed possimus. Voluptate, quas consequatur quibusdam molestiae voluptatibus assumenda veniam molestias rerum nemo ipsa, minima corrupti voluptas alias omnis sapiente asperiores!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat nam, voluptatum, soluta autem dicta vero veritatis recusandae velit explicabo adipisci delectus qui quos ipsam quidem provident deleniti illo natus. Non.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea fugit perferendis veniam ab hic quis possimus. Cupiditate quae labore officia, obcaecati, nihil ad nam dolor fugiat voluptas sed repellendus nobis?",
+            "img": "https://i.top4top.io/p_221055qlp1.jpeg"    
+        },
+        {
+            "price": "$400",
+            "maxCapacity": 6,
+            "pets": false,
+            "breakfast":false,
+            "type": "presidential",
+            "id": 3,
+            "link": "/rooms/single-room",
+            "prot": "per night",
+            "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus, sed possimus. Voluptate, quas consequatur quibusdam molestiae voluptatibus assumenda veniam molestias rerum nemo ipsa, minima corrupti voluptas alias omnis sapiente asperiores!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat nam, voluptatum, soluta autem dicta vero veritatis recusandae velit explicabo adipisci delectus qui quos ipsam quidem provident deleniti illo natus. Non.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea fugit perferendis veniam ab hic quis possimus. Cupiditate quae labore officia, obcaecati, nihil ad nam dolor fugiat voluptas sed repellendus nobis?",
+            "img": "https://k.top4top.io/p_2210za21z1.jpeg"    
+        },
+        {
+            "price": "$900",
+            "maxCapacity": 6,
+            "pets": true,
+            "breakfast":true,
+            "type": "presidential",
+            "id": 4,
+            "link": "/rooms/single-room",
+            "prot": "per night",
+            "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus, sed possimus. Voluptate, quas consequatur quibusdam molestiae voluptatibus assumenda veniam molestias rerum nemo ipsa, minima corrupti voluptas alias omnis sapiente asperiores!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat nam, voluptatum, soluta autem dicta vero veritatis recusandae velit explicabo adipisci delectus qui quos ipsam quidem provident deleniti illo natus. Non.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea fugit perferendis veniam ab hic quis possimus. Cupiditate quae labore officia, obcaecati, nihil ad nam dolor fugiat voluptas sed repellendus nobis?",
+            "img": "https://b.top4top.io/p_2210s7bkt1.jpeg"    
+        },
+        {
+            "price": "$500",
+            "maxCapacity": 6,
+            "pets": true,
+            "breakfast":true,
+            "type": "family",
+            "id": 5,
+            "link": "/rooms/single-room",
+            "prot": "per night",
+            "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus, sed possimus. Voluptate, quas consequatur quibusdam molestiae voluptatibus assumenda veniam molestias rerum nemo ipsa, minima corrupti voluptas alias omnis sapiente asperiores!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat nam, voluptatum, soluta autem dicta vero veritatis recusandae velit explicabo adipisci delectus qui quos ipsam quidem provident deleniti illo natus. Non.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea fugit perferendis veniam ab hic quis possimus. Cupiditate quae labore officia, obcaecati, nihil ad nam dolor fugiat voluptas sed repellendus nobis?",
+            "img": "https://e.top4top.io/p_22100iffp1.jpeg"    
+        },
+        {
+            "price": "$500",
+            "maxCapacity": 4,
+            "pets": true,
+            "breakfast":true,
+            "type": "single",
+            "id": 6,
+            "link": "/rooms/single-room",
+            "prot": "per night",
+            "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus, sed possimus. Voluptate, quas consequatur quibusdam molestiae voluptatibus assumenda veniam molestias rerum nemo ipsa, minima corrupti voluptas alias omnis sapiente asperiores!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat nam, voluptatum, soluta autem dicta vero veritatis recusandae velit explicabo adipisci delectus qui quos ipsam quidem provident deleniti illo natus. Non.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea fugit perferendis veniam ab hic quis possimus. Cupiditate quae labore officia, obcaecati, nihil ad nam dolor fugiat voluptas sed repellendus nobis?",
+            "img": "https://f.top4top.io/p_2210vf11j1.jpeg"    
+        },
+        {
+            "price": "$400",
+            "maxCapacity": 3,
+            "pets": true,
+            "breakfast":true,
+            "type": "double",
+            "id": 7,
+            "link": "/rooms/single-room",
+            "prot": "per night",
+            "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus, sed possimus. Voluptate, quas consequatur quibusdam molestiae voluptatibus assumenda veniam molestias rerum nemo ipsa, minima corrupti voluptas alias omnis sapiente asperiores!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat nam, voluptatum, soluta autem dicta vero veritatis recusandae velit explicabo adipisci delectus qui quos ipsam quidem provident deleniti illo natus. Non.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea fugit perferendis veniam ab hic quis possimus. Cupiditate quae labore officia, obcaecati, nihil ad nam dolor fugiat voluptas sed repellendus nobis?",
+            "img": "https://h.top4top.io/p_221031w011.jpeg"    
+        },
+        {
+            "price": "$700",
+            "maxCapacity": 6,
+            "pets": true,
+            "breakfast":false,
+            "type": "presidential",
+            "id": 8,
+            "link": "/rooms/single-room",
+            "prot": "per night",
+            "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus, sed possimus. Voluptate, quas consequatur quibusdam molestiae voluptatibus assumenda veniam molestias rerum nemo ipsa, minima corrupti voluptas alias omnis sapiente asperiores!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat nam, voluptatum, soluta autem dicta vero veritatis recusandae velit explicabo adipisci delectus qui quos ipsam quidem provident deleniti illo natus. Non.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea fugit perferendis veniam ab hic quis possimus. Cupiditate quae labore officia, obcaecati, nihil ad nam dolor fugiat voluptas sed repellendus nobis?",
+            "img": "https://k.top4top.io/p_2210wcrut1.jpeg"    
+        },
+        {
+            "price": "$900",
+            "maxCapacity": 7,
+            "pets": false,
+            "breakfast":false,
+            "type": "family",
+            "id": 9,
+            "link": "/rooms/single-room",
+            "prot": "per night",
+            "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus, sed possimus. Voluptate, quas consequatur quibusdam molestiae voluptatibus assumenda veniam molestias rerum nemo ipsa, minima corrupti voluptas alias omnis sapiente asperiores!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat nam, voluptatum, soluta autem dicta vero veritatis recusandae velit explicabo adipisci delectus qui quos ipsam quidem provident deleniti illo natus. Non.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea fugit perferendis veniam ab hic quis possimus. Cupiditate quae labore officia, obcaecati, nihil ad nam dolor fugiat voluptas sed repellendus nobis?",
+            "img": "https://b.top4top.io/p_2210vqgmn1.jpeg"    
+        },
+        {
+            "price": "$699",
+            "maxCapacity": 4,
+            "pets": false,
+            "breakfast":true,
+            "type": "single",
+            "id": 10,
+            "link": "/rooms/single-room",
+            "prot": "per night",
+            "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus, sed possimus. Voluptate, quas consequatur quibusdam molestiae voluptatibus assumenda veniam molestias rerum nemo ipsa, minima corrupti voluptas alias omnis sapiente asperiores!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat nam, voluptatum, soluta autem dicta vero veritatis recusandae velit explicabo adipisci delectus qui quos ipsam quidem provident deleniti illo natus. Non.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea fugit perferendis veniam ab hic quis possimus. Cupiditate quae labore officia, obcaecati, nihil ad nam dolor fugiat voluptas sed repellendus nobis?",
+            "img": "https://b.top4top.io/p_2210n76xn1.jpeg"    
+        },
+        {
+            "price": "$299",
+            "maxCapacity": 5,
+            "pets": true,
+            "breakfast":false,
+            "type": "double",
+            "id": 11,
+            "link": "/rooms/single-room",
+            "prot": "per night",
+            "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus, sed possimus. Voluptate, quas consequatur quibusdam molestiae voluptatibus assumenda veniam molestias rerum nemo ipsa, minima corrupti voluptas alias omnis sapiente asperiores!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat nam, voluptatum, soluta autem dicta vero veritatis recusandae velit explicabo adipisci delectus qui quos ipsam quidem provident deleniti illo natus. Non.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea fugit perferendis veniam ab hic quis possimus. Cupiditate quae labore officia, obcaecati, nihil ad nam dolor fugiat voluptas sed repellendus nobis?",
+            "img": "https://c.top4top.io/p_221080a9f1.jpeg"    
+        },
+        {
+            "price": "$300",
+            "maxCapacity": 6,
+            "pets": false,
+            "breakfast":true,
+            "type": "single",
+            "id": 12,
+            "link": "/rooms/single-room",
+            "prot": "per night",
+            "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus, sed possimus. Voluptate, quas consequatur quibusdam molestiae voluptatibus assumenda veniam molestias rerum nemo ipsa, minima corrupti voluptas alias omnis sapiente asperiores!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat nam, voluptatum, soluta autem dicta vero veritatis recusandae velit explicabo adipisci delectus qui quos ipsam quidem provident deleniti illo natus. Non.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea fugit perferendis veniam ab hic quis possimus. Cupiditate quae labore officia, obcaecati, nihil ad nam dolor fugiat voluptas sed repellendus nobis?",
+            "img": "https://d.top4top.io/p_2210de4w21.jpeg"    
+        }
+    ],
+    "types": [ "all", "single" , "double" , "family" , "presidential"],
+    "guests": [ "1", "3" , "5" , "7" , "10"],
+    "maxPrice": 900 
+}   
